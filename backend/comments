@@ -1,0 +1,12 @@
+npm init
+npm install
+npm install mongoose
+ npm install bcryptjs
+ npm install cors
+ npm install nodemon
+ npm install dotenv
+ npm install joi
+ npm install antd
+ npm install bcrypt
+ npm install jsonwebtoken
+ npm install express --save
